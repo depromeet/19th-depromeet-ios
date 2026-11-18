@@ -1,2 +1,2 @@
 # 19th-depromeet-ios
-iOS 육잡이들
+iOS 육잡이들 
